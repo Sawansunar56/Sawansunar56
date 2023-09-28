@@ -1,8 +1,10 @@
 - 👋 Hi, I’m @Sawansunar56
 - 👀 I’m interested in programming, I want to learn as much as possible about the various modern technologies present.
-- 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning low level programming.
 - 📫 How to reach me ...
+
+My Social Accounts
+- 
 
 <!---
 Sawansunar56/Sawansunar56 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
