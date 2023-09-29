@@ -1,7 +1,7 @@
 <h1 align="center">Greetings, Sawan Sunar Here </h1>
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&pause=1000&color=8939F7&center=true&vCenter=false&width=435&lines=I+am+Programming" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=2500&pause=500&color=8939F7&center=true&vCenter=false&width=435&lines=I+am+Programming;Blazingly+Fast" alt="Typing SVG" />
   </a>
 
 </p>
@@ -59,18 +59,18 @@
 
 <p align="left">
   <a href="https://github.com/Sawansunar56"><img src="https://github-readme-stats.vercel.app/api?username=Sawansunar56&count_private=true&show_icons=true&theme=tokyonight" alt="Sawan's github stats" /></a>
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Sawansunar56&theme=tokyonight&card_width=467" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-sand-delta.vercel.app?user=Sawansunar56&theme=tokyonight&card_width=467" alt="GitHub Streak" /></a>
 </p>
 <p align="left">
   <a href="https://github.com/Sawansunar56">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sawansunar56&langs_count=8&theme=tokyonight&hide=php" alt="Top Langs" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sawansunar56&hide=c&langs_count=10&theme=tokyonight&layout=compact&card_width=937" alt="Top Langs" />
   </a>
 </p>
 
 
 <hr>
 
-<h2>My Socials</h2>
+<h2>👋 My Socials</h2>
 
 <p align="">
  
